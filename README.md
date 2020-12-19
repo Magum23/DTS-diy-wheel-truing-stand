@@ -13,14 +13,6 @@ After all the process I started thinking that this wouldn’t be suitable for al
 
 I used the truing stand to true my front wheel. It worked pretty well for a budget truing stand and I managed to make the deviation less than 1mm, so the wheel is straight.
 
-# Additional info
-
-If you want original Fusion 360 files, let me know.
-
-
-If you found this useful, feel free to donate me for a coffee xD.
-Thanks, Enjoy!
-
 <h2>Material</h2>
 
 I printed the parts from PLA, seems to be fine. However if you want the parts to last a lot longer I would go with ABS.

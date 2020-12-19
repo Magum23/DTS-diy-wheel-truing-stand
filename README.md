@@ -1,6 +1,6 @@
 # DTS-diy-wheel-truing-stand
 
-#Story of product
+##Story of product
 
 As a bike lover I do enjoy working on my bicycle and one day I would love to know how to build a bike from scratch.
 
@@ -9,11 +9,11 @@ It has started just like a regular project of mine. I had drawn a simple sketch 
 
 After all the process I started thinking that this wouldn’t be suitable for all the wheels on the market and then I got the idea making this project open source. I knew that there is a big community of home bike mechanics that will help this project be even better.
 
-#My experience
+##My experience
 
 I used the truing stand to true my front wheel. It worked pretty well for a budget truing stand and I managed to make the deviation less than 1mm, so the wheel is straight.
 
-#Additional info
+##Additional info
 
 If you want original Fusion 360 files, let me know.
 
